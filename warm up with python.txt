@@ -1,0 +1,64 @@
+1. write a command to get the python version you are using.
+
+import sys
+print(sys.version)
+
+
+
+2. write a python script to print Hello Python on the screen directly in the command line.
+
+print("Hello Python")
+
+
+
+3. write a script and store it in a file and execute the file from the command line.
+
+C:\Program Files\Python310\hello.py
+
+
+
+4. write a python script to print Hello Python on the screen using visual studio code.
+
+print("Hello Python")
+
+
+
+5. write a python script to print Hello on the first line and Python on the second line.
+
+print("Hello\nPython")
+
+
+
+6. write a python script to print "MySirG" on the screen.
+
+print("\"MySirG\"")
+
+
+
+7. write a python script to print "Teacher's Day" on the screen.
+
+print("\"Teacher's Day\"")
+
+
+
+8. write a python script to print the value of a variable. variable contains your name as data.
+
+x="sandhya"
+print(x)
+
+
+
+9. write a python script to creat variables to store your name,age,qualification,years of experience and print it.
+
+name="Ram"
+age=19
+qualification="b.sc"
+experience=4
+print(name,age,qualification,experience)
+
+
+
+10. write a python script to print values of three variables,each in a new line. variables contains integer values.
+
+a,b,c=3,4,5
+print(a,b,c, sep="\n")
